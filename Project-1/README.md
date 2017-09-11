@@ -17,3 +17,5 @@ Besides using GitHub, another site I used for information was [Lynda.](https://w
   3. Atom navigation and commands
 
   I currently feel very overwhelmed with all of this new information and making my way through two totally new programs with totally unique workflows.
+
+  Here is one additional line of text.
