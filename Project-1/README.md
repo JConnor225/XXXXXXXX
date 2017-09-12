@@ -19,3 +19,5 @@ Besides using GitHub, another site I used for information was [Lynda.](https://w
   I currently feel very overwhelmed with all of this new information and making my way through two totally new programs with totally unique workflows.
 
   Here is one additional line of text.
+## __Conclusion__
+In conclusion, I learned a ton of new concepts this week and was introduced to both Atom and Github...both provided plenty of difficulties for me to navigate and learn from and even though it was daunting, I feel like I have a much better understanding of very basic web design as well as creating and sharing code through repositories. 
